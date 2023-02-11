@@ -17,6 +17,8 @@ namespace Calculator2
 
             var number = Getnumber();
 
+            //test number2
+
             Console.WriteLine("Podaj znak działania '+','-','*','/'");
 
             var mark = GetMark();
