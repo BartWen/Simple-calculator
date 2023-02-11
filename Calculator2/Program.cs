@@ -13,6 +13,8 @@ namespace Calculator2
         {
             Console.WriteLine("Podaj pierwszą liczbe");
 
+            // teste dla Git
+
             var number = Getnumber();
 
             Console.WriteLine("Podaj znak działania '+','-','*','/'");
